@@ -1,1 +1,0 @@
-Geekshop_django
